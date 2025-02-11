@@ -1,5 +1,5 @@
 # 🏥 Disease Outbreak Prediction - Heart Disease Prediction
-![Home Page](![image](https://github.com/user-attachments/assets/e8988cc1-86a4-4fed-bec4-a5b16b3aa837)
+![Home Page]((https://github.com/user-attachments/assets/e8988cc1-86a4-4fed-bec4-a5b16b3aa837)
 )
 
 
@@ -11,7 +11,7 @@ The **Disease Outbreak Prediction** project is used to predict **heart disease**
 - 🔍 **Heart Disease Prediction:** Predicts heart disease risk using patient data.
 - 📊 **Machine Learning Model:** Uses AI to analyze key health indicators.
 - 🏥 **Health Insights:** Provides recommendations based on predictions.
-![Heart Disease Prediction Model](![image](https://github.com/user-attachments/assets/c0e294ba-01d4-4332-a6bc-879aac943d08)
+![Heart Disease Prediction Model]((https://github.com/user-attachments/assets/c0e294ba-01d4-4332-a6bc-879aac943d08)
 )
 
 
