@@ -10,7 +10,7 @@ st.set_page_config(page_title="Heart Disease Prediction", layout="wide", page_ic
 
 # Function to add a logo
 def add_logo():
-    logo_path = "image.png"
+    logo_path = "images/image.png"
     col1, col2 = st.columns([5, 2])  
     with col1:
         st.title("Heart Disease Prediction 🩺")  
@@ -59,7 +59,7 @@ with tabs[0]:
     - Provides **instant results** based on patient data.  
     """)
 
-    image_path = "view-anatomic-heart-model-educational-purpose-with-stethoscope.jpg"
+    image_path = "images/view-anatomic-heart-model-educational-purpose-with-stethoscope.jpg"
     resized_img = resize_image(image_path, width=1000, height=450)
     
     if resized_img:
