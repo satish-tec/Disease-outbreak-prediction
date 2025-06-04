@@ -1,7 +1,6 @@
 # 🏥 Disease Outbreak Prediction - Heart Disease Prediction
 ![Home Page](images/home.png)
 
-
 ## 📌 Overview
 The **Disease Outbreak Prediction** project is used to predict **heart disease** risk based on patient data. It uses **machine learning models** to analyze health indicators and provide risk assessments. The application helps users monitor their heart health and take preventive measures early.
 
