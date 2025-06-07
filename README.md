@@ -11,7 +11,7 @@ The **Disease Outbreak Prediction** project is used to predict **heart/diabetes 
 - 📊 **Machine Learning Model:** Uses AI to analyze key health indicators.
 - 🏥 **Health Insights:** Provides recommendations based on predictions.
 ![Heart Disease Prediction Model](images/heart.jpg)
-![Diabetes Disease Prediction Model](images/diabtes.jpg)
+![Diabetes Disease Prediction Model](images/diabetes.jpg)
 
 
 ## 🏥 How It Works
